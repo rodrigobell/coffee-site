@@ -1,0 +1,10 @@
+#latteArt {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+
+	background-position: center top;
+	background-image: url('../../dist/assets/img/bg_latte_art.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}

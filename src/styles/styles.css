@@ -1,0 +1,12 @@
+#app {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	font: 14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+#route-container {
+	position: absolute;
+	height: 100%;
+	width: 100%;
+}

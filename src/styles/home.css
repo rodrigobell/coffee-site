@@ -1,0 +1,72 @@
+#root {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background-position: center top;
+	background-image: url('../../dist/assets/img/bg_home.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+#titleContainer {
+	position: relative;
+	height: 250px;
+	top: 50%;
+	margin-top: -175px;
+	background-color: black;
+	opacity: 0.85;
+}
+
+#title {
+	height: 100%;
+	padding: 20px;
+	text-align: center;
+	color: #fefefe;
+}
+
+#title h1 { 
+	position: relative;
+	top: 50%;
+	margin-top: -32px;
+	font-size: 4em;
+	color: #F7E7D4;
+	font-family: 'Fredericka the Great', cursive;
+	letter-spacing: 12px;
+}
+
+.smallCaps {
+	font-size: 0.85em;
+}
+
+#title h3 {
+	position: relative;
+	top: 50%;
+	margin-top: -5px;
+	margin-right: -200px;
+	font-size: 1.2em;
+	opacity: 0.75;
+	color: #E5C3B6;
+	font-style: italic;
+	letter-spacing: 1px;
+}
+
+nav {
+	position: relative;
+	height: 100px;
+	top: 50%;
+	background-color: #1F1717;
+	opacity: 0.85;
+	text-align: center;
+}
+
+nav a {
+	position: relative;
+	top: 50%;
+	margin-top: -40px;
+	margin-right: 30px;
+	margin-left: 30px;
+	color: #DBC8BC;
+	font-family: 'Belleza', sans-serif;
+	font-size: 1.2em;
+	letter-spacing: 2px;
+}
